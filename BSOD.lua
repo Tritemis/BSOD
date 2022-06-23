@@ -1,7 +1,7 @@
 local coregui = game:service'CoreGui'
 
 local sound = Instance.new('Sound', coregui)
-sound.SoundId = 'rbxassetid://865599816'
+sound.SoundId = 'rbxassetid://10000923317'
 sound.Volume = 3
 sound.Looped = true
 
